@@ -501,5 +501,47 @@
       "The Impact Site"
     ],
     "requires": "|The Impact Site Revisit| AND |Yellow Pikmin| AND |The Forest of Hope|"
+  },
+  {
+    "name": "Crash on PNF-404",
+    "category": [
+      "The Impact Site"
+    ],
+    "requires": []
+  },
+  {
+    "name": "re explore",
+    "category": [
+      "The Impact Site"
+    ],
+    "requires": "|The Impact Site Revisit|"
+  },
+  {
+    "name": "Visit",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|"
+  },
+  {
+    "name": "Visit",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Visit",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring|"
+  },
+  {
+    "name": "Visit",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial|"
   }
 ]
