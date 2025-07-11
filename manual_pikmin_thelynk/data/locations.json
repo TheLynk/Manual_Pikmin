@@ -1,700 +1,505 @@
 [
   {
-    
-		"name": "Discover the Red Onion",
-    
-		"category": [
+    "name": "Discover the Red Onion",
+    "category": [
       "The Impact Site"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Push the Box",
-    
-		"category": [
+    "name": "Push the Box",
+    "category": [
       "The Impact Site"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Main Engine",
-    
-		"category": [
+    "name": "Main Engine",
+    "category": [
       "The Impact Site"
     ],
-    
-		"place_item": [
+    "place_item": [
       "The Forest of Hope",
       "The Forest Navel",
       "The Distant Spring"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Tutorial Complete! (Sunset)",
-    
-		"category": [
+    "name": "Tutorial Complete! (Sunset)",
+    "category": [
       "The Impact Site"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Discover the Yellow Onion",
-    
-		"category": [
+    "name": "Discover the Yellow Onion",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope|"
+    "requires": "|The Forest of Hope|"
   },
   {
-    
-		"name": "Discover the Blue Onion",
-    
-		"category": [
+    "name": "Discover the Blue Onion",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel|"
+    "requires": "|The Forest Navel|"
   },
   {
-    
-		"name": "Positron Generator",
-    
-		"category": [
+    "name": "Positron Generator",
+    "category": [
       "The Impact Site"
     ],
-    
-		"requires": "|Yellow Pikmin| AND |Blue Pikmin| AND |The Forest of Hope| AND |The Forest Navel| AND |The Impact Site Revisit|"
+    "requires": "|Yellow Pikmin| AND |Blue Pikmin| AND |The Forest of Hope| AND |The Forest Navel| AND |The Impact Site Revisit|"
   },
   {
-    
-		"name": "Eternal Fuel Dynamo",
-    
-		"category": [
+    "name": "Eternal Fuel Dynamo",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope|"
+    "requires": "|The Forest of Hope|"
   },
   {
-    
-		"name": "Extraordinary Bolt",
-    
-		"category": [
+    "name": "Extraordinary Bolt",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Geiger Counter",
-    
-		"category": [
+    "name": "Geiger Counter",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Nova Blaster",
-    
-		"category": [
+    "name": "Nova Blaster",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Radiation Canopy",
-    
-		"category": [
+    "name": "Radiation Canopy",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Sagittarius",
-    
-		"category": [
+    "name": "Sagittarius",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest of Hope| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Shock Absorber",
-    
-		"category": [
+    "name": "Shock Absorber",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Blue Pikmin|"
+    "requires": "|The Forest of Hope| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Whimsical Radar",
-    
-		"category": [
+    "name": "Whimsical Radar",
+    "category": [
       "The Forest of Hope"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "#1 Ionium Jet",
-    
-		"category": [
+    "name": "#1 Ionium Jet",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Analog Computer",
-    
-		"category": [
+    "name": "Analog Computer",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Anti-Dioxin Filter",
-    
-		"category": [
+    "name": "Anti-Dioxin Filter",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Automatic Gear",
-    
-		"category": [
+    "name": "Automatic Gear",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel|"
+    "requires": "|The Forest Navel|"
   },
   {
-    
-		"name": "Gravity Jumper",
-    
-		"category": [
+    "name": "Gravity Jumper",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "(|The Forest Navel| and |Blue Pikmin|)"
+    "requires": "(|The Forest Navel| and |Blue Pikmin|)"
   },
   {
-    
-		"name": "Guard Satellite",
-    
-		"category": [
+    "name": "Guard Satellite",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Libra",
-    
-		"category": [
+    "name": "Libra",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Omega Stabilizer",
-    
-		"category": [
+    "name": "Omega Stabilizer",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel|"
+    "requires": "|The Forest Navel|"
   },
   {
-    
-		"name": "Space Float",
-    
-		"category": [
+    "name": "Space Float",
+    "category": [
       "The Forest Navel"
     ],
-    
-		"requires": "|The Forest Navel|"
+    "requires": "|The Forest Navel|"
   },
   {
-    
-		"name": "#2 Ionium Jet",
-    
-		"category": [
+    "name": "#2 Ionium Jet",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Bowsprit",
-    
-		"category": [
+    "name": "Bowsprit",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Chronos Reactor",
-    
-		"category": [
+    "name": "Chronos Reactor",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |The Forest Navel| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Gluon Drive",
-    
-		"category": [
+    "name": "Gluon Drive",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Interstellar Radio",
-    
-		"category": [
+    "name": "Interstellar Radio",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Massage Machine",
-    
-		"category": [
+    "name": "Massage Machine",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Pilot's Seat",
-    
-		"category": [
+    "name": "Pilot's Seat",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Repair-type Bolt",
-    
-		"category": [
+    "name": "Repair-type Bolt",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "UV Lamp",
-    
-		"category": [
+    "name": "UV Lamp",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Zirconium Rotor",
-    
-		"category": [
+    "name": "Zirconium Rotor",
+    "category": [
       "The Distant Spring"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Secret Safe",
-    
-		"category": [
+    "name": "Secret Safe",
+    "category": [
       "Victory!"
     ],
-    
-		"requires": "|The Final Trial| AND |Yellow Pikmin|  AND |Blue Pikmin| AND |Ship Part:25|",
-    
-		"victory": true
+    "requires": "|The Final Trial| AND |Yellow Pikmin|  AND |Blue Pikmin| AND |Ship Part:25| AND |The Forest of Hope| AND |The Forest Navel|",
+    "victory": true
   },
   {
-    
-		"name": "Grow 10 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 10 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 20 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 20 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 30 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 30 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 40 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 40 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 50 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 50 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 60 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 60 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 70 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 70 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 80 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 80 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 90 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 90 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 100 Red Pikmin",
-    
-		"category": [
+    "name": "Grow 100 Red Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": []
+    "requires": []
   },
   {
-    
-		"name": "Grow 10 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 10 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 20 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 20 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 30 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 30 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 40 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 40 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 50 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 50 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 60 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 60 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 70 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 70 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 80 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 80 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 90 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 90 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 100 Yellow Pikmin",
-    
-		"category": [
+    "name": "Grow 100 Yellow Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    
-		"name": "Grow 10 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 10 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 20 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 20 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 30 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 30 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 40 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 40 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 50 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 50 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 60 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 60 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 70 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 70 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 80 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 80 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 90 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 90 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "Grow 100 Blue Pikmin",
-    
-		"category": [
+    "name": "Grow 100 Blue Pikmin",
+    "category": [
       "Achievements"
     ],
-    
-		"requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "The Impact Site 100%",
-    
-		"category": [
+    "name": "The Impact Site 100%",
+    "category": [
       "Area 100%"
     ],
-    
-		"requires": "|The Impact Site Revisit| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Impact Site Revisit| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "The Forest of Hope 100%",
-    
-		"category": [
+    "name": "The Forest of Hope 100%",
+    "category": [
       "Area 100%"
     ],
-    
-		"requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "The Forest of Navel 100%",
-    
-		"category": [
+    "name": "The Forest of Navel 100%",
+    "category": [
       "Area 100%"
     ],
-    
-		"requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    
-		"name": "The Distant Spring 100%",
-    
-		"category": [
+    "name": "The Distant Spring 100%",
+    "category": [
       "Area 100%"
     ],
-    
-		"requires": "|The Distant Spring| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Blast Wall",
+    "category": [
+      "The Impact Site"
+    ],
+    "requires": "|The Impact Site Revisit| AND |Yellow Pikmin| AND |The Forest of Hope|"
+  },
+  {
+    "name": "Break Wall",
+    "category": [
+      "The Impact Site"
+    ],
+    "requires": "|The Impact Site Revisit| AND |Yellow Pikmin| AND |The Forest of Hope|"
   }
 ]

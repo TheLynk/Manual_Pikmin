@@ -1,98 +1,66 @@
 [
   {
-    
-		"name": "Ship Part",
-    
-		"count":  30,
-    
-		"category": [
+    "name": "Ship Part",
+    "count": 30,
+    "category": [
       "Ship Parts"
     ],
-    
-		"progression": true
+    "progression": true
   },
   {
-    
-		"name": "Yellow Pikmin",
-    
-		"category": [
+    "name": "Yellow Pikmin",
+    "category": [
       "Pikmin"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   },
   {
-    
-		"name": "Blue Pikmin",
-    
-		"category": [
+    "name": "Blue Pikmin",
+    "category": [
       "Pikmin"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   },
   {
-    
-		"name": "The Impact Site Revisit",
-    
-		"category": [
+    "name": "The Impact Site Revisit",
+    "category": [
       "Areas Accessible"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   },
   {
-    
-		"name": "The Forest of Hope",
-    
-		"category": [
+    "name": "The Forest of Hope",
+    "category": [
       "Areas Accessible"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   },
   {
-    
-		"name": "The Forest Navel",
-    
-		"category": [
+    "name": "The Forest Navel",
+    "category": [
       "Areas Accessible"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   },
   {
-    
-		"name": "The Distant Spring",
-    
-		"category": [
+    "name": "The Distant Spring",
+    "category": [
       "Areas Accessible"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   },
   {
-    
-		"name": "The Final Trial",
-    
-		"category": [
+    "name": "The Final Trial",
+    "category": [
       "Areas Accessible"
     ],
-    
-		"count":  1,
-    
-		"progression": true
+    "count": 1,
+    "progression": true
   }
 ]
