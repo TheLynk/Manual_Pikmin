@@ -7,6 +7,29 @@ Yellow & Blue Pikmin
 The Final Trial (area access item)
 25 Ship Parts (out of 30 in the pool)
 
+List of Item :
+Pikmin :
+- Blue Pikmin
+- Yellow Pikmin
+
+Areas Acces :
+- The Impact Site Revisit
+- The Forest of Hope
+- The Forest of Navel
+- The Distant Spring
+- The Final Trial
+
+Other:
+- Ship Part (30 max)
+- Pikpik Carrot (Filler)
+
+List of Type Location :
+- Discover Onion
+- Ship Part
+- 100% Area
+- Achievements (Grow x number "color" Pikmin)
+- WIP Break Wall & Blast Wall WIP
+
 Progression: All areas except The Impact Site have to be obtained from the pool to be traveled to. Yellow and Blue Pikmin are in the item pool and can't be used until received. Intention is to start on a new save file, but you can start on a Day 2 file if you want to save time (just don't forget to mark off the Day 1 checks). 
 
 Note: This is intended for the Gamecube version of Pikmin. I have not tested the below codes for the Wii version (don't have a way to at the moment), but I'm thinking they're for the Gamecube version only. 
