@@ -8,6 +8,7 @@ The Final Trial (area access item)
 25 Ship Parts (out of 30 in the pool)
 
 List of Item :
+
 Pikmin :
 - Blue Pikmin
 - Yellow Pikmin
