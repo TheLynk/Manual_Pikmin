@@ -1,0 +1,98 @@
+[
+  {
+    
+		"name": "Ship Part",
+    
+		"count":  30,
+    
+		"category": [
+      "Ship Parts"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Yellow Pikmin",
+    
+		"category": [
+      "Pikmin"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Blue Pikmin",
+    
+		"category": [
+      "Pikmin"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "The Impact Site Revisit",
+    
+		"category": [
+      "Areas Accessible"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "The Forest of Hope",
+    
+		"category": [
+      "Areas Accessible"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "The Forest Navel",
+    
+		"category": [
+      "Areas Accessible"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "The Distant Spring",
+    
+		"category": [
+      "Areas Accessible"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "The Final Trial",
+    
+		"category": [
+      "Areas Accessible"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  }
+]
