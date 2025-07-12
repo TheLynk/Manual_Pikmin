@@ -543,5 +543,26 @@
       "The Final Trial"
     ],
     "requires": "|The Final Trial|"
+  },
+  {
+    "name": "Red Pikmin in bloom",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Yellow Pikmin in bloom",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Blue Pikmin in bloom",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   }
 ]

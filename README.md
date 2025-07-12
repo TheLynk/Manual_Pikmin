@@ -28,7 +28,7 @@ List of Type Location :
 - Discover Onion
 - Ship Part
 - 100% Area
-- Achievements (Grow x number "color" Pikmin)
+- Achievements (Grow x number "color" Pikmin & Pikmin in Bloom)
 - Visit & Re Explore & Crash on PNF-404
 - WIP Break Wall & Blast Wall WIP
 
