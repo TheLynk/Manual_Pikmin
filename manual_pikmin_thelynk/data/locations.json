@@ -564,5 +564,33 @@
       "Achievements"
     ],
     "requires": "|The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Upgrade (1)",
+    "category": [
+      "S. S. Dolphin"
+    ],
+    "requires": "|Ship Part:1|"
+  },
+  {
+    "name": "Upgrade (5)",
+    "category": [
+      "S. S. Dolphin"
+    ],
+    "requires": "|Ship Part:5|"
+  },
+  {
+    "name": "Upgrade (12)",
+    "category": [
+      "S. S. Dolphin"
+    ],
+    "requires": "|Ship Part:12|"
+  },
+  {
+    "name": "Upgrade (29)",
+    "category": [
+      "S. S. Dolphin"
+    ],
+    "requires": "|Ship Part:29|"
   }
 ]

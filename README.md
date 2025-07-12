@@ -30,6 +30,7 @@ List of Type Location :
 - 100% Area
 - Achievements (Grow x number "color" Pikmin & Pikmin in Bloom)
 - Visit & Re Explore & Crash on PNF-404
+- S. S. Dolphin Upgrade
 - WIP Break Wall & Blast Wall WIP
 
 Progression: All areas except The Impact Site have to be obtained from the pool to be traveled to. Yellow and Blue Pikmin are in the item pool and can't be used until received. Intention is to start on a new save file, but you can start on a Day 2 file if you want to save time (just don't forget to mark off the Day 1 checks). 
