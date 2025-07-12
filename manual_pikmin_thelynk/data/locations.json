@@ -753,5 +753,26 @@
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Firework red onion",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Firework yellow onion",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Firework blue onion",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
   }
 ]
