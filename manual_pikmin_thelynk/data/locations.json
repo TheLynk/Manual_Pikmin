@@ -489,14 +489,14 @@
     "requires": "|The Distant Spring| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    "name": "Blast Wall",
+    "name": "Blast white wall",
     "category": [
       "The Impact Site"
     ],
     "requires": "|The Impact Site Revisit| AND |Yellow Pikmin| AND |The Forest of Hope|"
   },
   {
-    "name": "Break Wall",
+    "name": "Break white wall",
     "category": [
       "The Impact Site"
     ],
@@ -669,5 +669,89 @@
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin| AND |The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Break white wall near red onion",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Blast white wall near blue onion",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Blast white wall between black wall and the bridge",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Blast black wall near white wall",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Build bridge spawn to land",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Build bridge land to beach",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Break black wall near Beady Long Legs",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Blast white wall near Beady Long Legs",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Build bridge beach to upper",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Build bridge upper to beach",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Break black wall near beach",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
+  },
+  {
+    "name": "Build bridge land to island",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel|"
   }
 ]
