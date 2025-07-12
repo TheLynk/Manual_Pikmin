@@ -592,5 +592,82 @@
       "S. S. Dolphin"
     ],
     "requires": "|Ship Part:29|"
+  },
+  {
+    "name": "Break white wall near spawn",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|"
+  },
+  {
+    "name": "Blast white wall near spawn",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Build bridge land to water",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|"
+  },
+  {
+    "name": "Build bridge water to land",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope| AND |The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Break white wall near yellow onion",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|"
+  },
+  {
+    "name": "Blast white wall near Geiger Counter",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Blast white wall near yellow onion",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Blast black wall near Extraordinary Bolt",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Break black wall near 20 yellow palet",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Break white wall in water",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin| AND |The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Break black wall near Radiation Canopy",
+    "category": [
+      "The Forest of Hope"
+    ],
+    "requires": "|The Forest of Hope|  AND |Yellow Pikmin| AND |The Forest Navel| AND |Blue Pikmin|"
   }
 ]
