@@ -489,14 +489,14 @@
     "requires": "|The Distant Spring| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    "name": "Blast white wall",
+    "name": "IS Blast white wall",
     "category": [
       "The Impact Site"
     ],
     "requires": "|The Impact Site Revisit| AND |Yellow Pikmin| AND |The Forest of Hope|"
   },
   {
-    "name": "Break white wall",
+    "name": "IS Break white wall",
     "category": [
       "The Impact Site"
     ],
@@ -517,28 +517,28 @@
     "requires": "|The Impact Site Revisit|"
   },
   {
-    "name": "Visit",
+    "name": "FoH Visit",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|"
   },
   {
-    "name": "Visit",
+    "name": "FN Visit",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
   },
   {
-    "name": "Visit",
+    "name": "DS Visit",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring|"
   },
   {
-    "name": "Visit",
+    "name": "FT Visit",
     "category": [
       "The Final Trial"
     ],
@@ -594,161 +594,161 @@
     "requires": "|Ship Part:29|"
   },
   {
-    "name": "Break white wall near spawn",
+    "name": "FoH Break white wall near spawn",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|"
   },
   {
-    "name": "Blast white wall near spawn",
+    "name": "FoH Blast white wall near spawn",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    "name": "Build bridge land to water",
+    "name": "FoH Build bridge land to water",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|"
   },
   {
-    "name": "Build bridge water to land",
+    "name": "FoH Build bridge water to land",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Break white wall near yellow onion",
+    "name": "FoH Break white wall near yellow onion",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|"
   },
   {
-    "name": "Blast white wall near Geiger Counter",
+    "name": "FoH Blast white wall near Geiger Counter",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Blast white wall near yellow onion",
+    "name": "FoH Blast white wall near yellow onion",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Blast black wall near Extraordinary Bolt",
+    "name": "FoH Blast black wall near Extraordinary Bolt",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Break black wall near 20 yellow palet",
+    "name": "FoH Break black wall near 20 yellow palet",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Break white wall in water",
+    "name": "FoH Break white wall in water",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Break black wall near Radiation Canopy",
+    "name": "FoH Break black wall near Radiation Canopy",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest of Hope|  AND |Yellow Pikmin| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Break white wall near red onion",
+    "name": "FN Break white wall near red onion",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
   },
   {
-    "name": "Blast white wall near blue onion",
+    "name": "FN Blast white wall near blue onion",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Blast white wall between black wall and the bridge",
+    "name": "FN Blast white wall between black wall and the bridge",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Blast black wall near white wall",
+    "name": "FN Blast black wall near white wall",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Build bridge spawn to land",
+    "name": "FN Build bridge spawn to land",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
   },
   {
-    "name": "Build bridge land to beach",
+    "name": "FN Build bridge land to beach",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
   },
   {
-    "name": "Break black wall near Beady Long Legs",
+    "name": "FN Break black wall near Beady Long Legs",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
   },
   {
-    "name": "Blast white wall near Beady Long Legs",
+    "name": "FN Blast white wall near Beady Long Legs",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
   },
   {
-    "name": "Build bridge beach to upper",
+    "name": "FN Build bridge beach to upper",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Build bridge upper to beach",
+    "name": "FN Build bridge upper to beach",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Break black wall near beach",
+    "name": "FN Break black wall near beach",
     "category": [
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel|"
   },
   {
-    "name": "Build bridge land to island",
+    "name": "FN Build bridge land to island",
     "category": [
       "The Forest Navel"
     ],
@@ -776,112 +776,112 @@
     "requires": "|The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Push the box near Geiger Counter",
+    "name": "FoH Push the box near Geiger Counter",
     "category": [
       "The Forest of Hope"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
   },
   {
-    "name": "Build bridge near Massage Machine",
+    "name": "DS Build bridge near Massage Machine",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Blast black wall near blue onion",
+    "name": "DS Blast black wall near blue onion",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    "name": "Build bridge land to Gluon Drive",
+    "name": "DS Build bridge land to Gluon Drive",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring|"
   },
   {
-    "name": "Build bridge Gluon Drive to land",
+    "name": "DS Build bridge Gluon Drive to land",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Blast white wall near Gluon Drive",
+    "name": "DS Blast white wall near Gluon Drive",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    "name": "Break white wall near Zirconium Rotor",
+    "name": "DS Break white wall near Zirconium Rotor",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
   },
   {
-    "name": "Break black wall near Zirconium Rotor",
+    "name": "DS Break black wall near Zirconium Rotor",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring|"
   },
   {
-    "name": "Break white wall near Bowsprit",
+    "name": "DS Break white wall near Bowsprit",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring|"
   },
   {
-    "name": "Builde bridge near Bowsprit",
+    "name": "DS Builde bridge near Bowsprit",
     "category": [
       "The Distant Spring"
     ],
     "requires": "|The Distant Spring|"
   },
   {
-    "name": "Push the box",
+    "name": "FT Push the box",
     "category": [
       "The Final Trial"
     ],
     "requires": "|The Final Trial|"
   },
   {
-    "name": "Build bridge island to spawn",
+    "name": "FT Build bridge island to spawn",
     "category": [
       "The Final Trial"
     ],
     "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel|"
   },
   {
-    "name": "Build bridge island to Final Boss",
+    "name": "FT Build bridge island to Final Boss",
     "category": [
       "The Final Trial"
     ],
     "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel|"
   },
   {
-    "name": "Blast white wall",
+    "name": "FT Blast white wall",
     "category": [
       "The Final Trial"
     ],
     "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    "name": "Break white wall spawn to Final Boss",
+    "name": "FT Break white wall spawn to Final Boss",
     "category": [
       "The Final Trial"
     ],
     "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
   },
   {
-    "name": "Break white wall Final Boss to bomb",
+    "name": "FT Break white wall Final Boss to bomb",
     "category": [
       "The Final Trial"
     ],
