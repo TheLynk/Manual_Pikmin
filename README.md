@@ -27,11 +27,11 @@ Other:
 List of Type Location :
 - Discover Onion
 - Ship Part
-- 100% Area
+- 100% Area (After having made all the other check / location)
 - Achievements (Grow x number "color" Pikmin & Pikmin in Bloom & firework)
 - Visit & Re Explore & Crash on PNF-404
 - S. S. Dolphin Upgrade
-- WIP Break Wall & Blast Wall WIP
+- Break Wall & Blast Wall & Build Bridge & Push Box
 
 Progression: All areas except The Impact Site have to be obtained from the pool to be traveled to. Yellow and Blue Pikmin are in the item pool and can't be used until received. Intention is to start on a new save file, but you can start on a Day 2 file if you want to save time (just don't forget to mark off the Day 1 checks). 
 
@@ -47,7 +47,7 @@ Another Note: It's somewhat possible that you might need to use an infinite Day 
 04CE587B 08000000
 0039DAB7 0000001D 
 
-Total Checks: 68
+Total Checks: 126
 
 install apworld and playing 
 Place manual_pikmin_thelynk.apworld in custom_worlds and generate template and place yaml in player and here we go
@@ -60,6 +60,32 @@ Objectif : Atteindre l’Épreuve finale, vaincre l’Empereur Bulblax et récu
 Pikmin jaune et bleu
 L’Épreuve finale (objet d’accès à la zone)
 25 pièces de vaisseau (sur les 30 disponibles)
+
+Liste d'objet :
+
+Pikmin :
+- Pikmin Bleu
+- Pikmin Jaune
+
+Débloquage de zones :
+- Revite Site du Crash
+- La Forêt de l'Espoir
+- Le Nombril de la Forêt
+- La Source Lointaine
+- L'Epreuve Finale
+
+Autres :
+- Pièce du vaisseau (30 max)
+- Carrote Pikpik (Filler)
+
+Liste de type de check / emplacement :
+- Découvrir un Onion
+- Pièce de vaisseau
+- 100% une zones (Après avoir fait tout les autre check / emplacement)
+- Les succès (Faire germer x nombres "couleur" Pikmin & Pikmin en fleur & feu d'artifice)
+- Visite & Re Explorer & Crash sur PNF-404
+- S. S. Dolphin amélioration
+- casser des murs & exploser les murs & construire des ponts & Poussé des boites
 
 Progression : Toutes les zones, à l’exception du Site d’impact, doivent être obtenues dans l’objet pour pouvoir y accéder. Les Pikmin jaune et bleu sont disponibles dans l’objet et ne peuvent être utilisés qu’une fois reçus. L’objectif est de commencer avec une nouvelle sauvegarde, mais vous pouvez commencer avec un fichier du Jour 2 si vous souhaitez gagner du temps (n’oubliez pas de cocher les cases du Jour 1).
 

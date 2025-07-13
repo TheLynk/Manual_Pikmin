@@ -781,5 +781,110 @@
       "The Forest of Hope"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Build bridge near Massage Machine",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Blast black wall near blue onion",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Build bridge land to Gluon Drive",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring|"
+  },
+  {
+    "name": "Build bridge Gluon Drive to land",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Blast white wall near Gluon Drive",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring| AND |The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Break white wall near Zirconium Rotor",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring| AND |The Forest Navel| AND |Blue Pikmin|"
+  },
+  {
+    "name": "Break black wall near Zirconium Rotor",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring|"
+  },
+  {
+    "name": "Break white wall near Bowsprit",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring|"
+  },
+  {
+    "name": "Builde bridge near Bowsprit",
+    "category": [
+      "The Distant Spring"
+    ],
+    "requires": "|The Distant Spring|"
+  },
+  {
+    "name": "Push the box",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial|"
+  },
+  {
+    "name": "Build bridge island to spawn",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel|"
+  },
+  {
+    "name": "Build bridge island to Final Boss",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel|"
+  },
+  {
+    "name": "Blast white wall",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Break white wall spawn to Final Boss",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Break white wall Final Boss to bomb",
+    "category": [
+      "The Final Trial"
+    ],
+    "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
   }
 ]
