@@ -101,7 +101,7 @@ Autre remarque : Il est possible que vous deviez utiliser un code Jour infini (
 04CE587B 08000000
 0039DAB7 0000001D
 
-Nombre total de Ckecks : 68
+Nombre total de Ckecks : 126
 
 Installez apworld et jouez.
 Placez manual_pikmin_thelynk.apworld dans custom_worlds, générez le modèle, placez le fichier YAML dans le lecteur et c'est parti.
