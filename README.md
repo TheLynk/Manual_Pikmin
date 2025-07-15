@@ -1,8 +1,3 @@
-## TODO 
-- Change Goal and Update Ship Part
-- Add option in yaml
-
-EN
 ====================
 Goal and Progression
 ====================
@@ -55,3 +50,7 @@ Total Checks: 126
 
 install apworld and playing 
 Place manual_pikmin_thelynk.apworld in custom_worlds and generate template and place yaml in player and here we go
+
+## TODO 
+- Change Goal and Update Ship Part
+- Add option in yaml
