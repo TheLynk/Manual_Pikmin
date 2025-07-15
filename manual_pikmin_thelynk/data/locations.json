@@ -245,10 +245,10 @@
   {
     "name": "Secret Safe",
     "category": [
-      "Victory!"
+      "The Final Trial"
     ],
     "requires": "|The Final Trial| AND |Yellow Pikmin|  AND |Blue Pikmin| AND |Ship Part:25| AND |The Forest of Hope| AND |The Forest Navel|",
-    "victory": true
+    "victory": false
   },
   {
     "name": "Grow 10 Red Pikmin",
@@ -570,28 +570,28 @@
     "category": [
       "S. S. Dolphin"
     ],
-    "requires": "|Ship Part:1|"
+    "requires": "|Ship Part:1| OR |Ship Part Optional:1|"
   },
   {
     "name": "Upgrade (5)",
     "category": [
       "S. S. Dolphin"
     ],
-    "requires": "|Ship Part:5|"
+    "requires": "|Ship Part:5|\nOR (|Ship Part:4| AND |Ship Part Optional:1|) \nOR (|Ship Part:3| AND |Ship Part Optional:2|)\nOR (|Ship Part:2| AND |Ship Part Optional:3|)\nOR (|Ship Part:1| AND |Ship Part Optional:4|)\nOR |Ship Part Optional:5|"
   },
   {
     "name": "Upgrade (12)",
     "category": [
       "S. S. Dolphin"
     ],
-    "requires": "|Ship Part:12|"
+    "requires": "|Ship Part:12|\nOR (|Ship Part:11| AND |Ship Part Optional:1|) \nOR (|Ship Part:10| AND |Ship Part Optional:2|) \nOR (|Ship Part:9| AND |Ship Part Optional:3|)\nOR (|Ship Part:8| AND |Ship Part Optional:4|)\nOR (|Ship Part:7| AND |Ship Part Optional:5|)"
   },
   {
     "name": "Upgrade (29)",
     "category": [
       "S. S. Dolphin"
     ],
-    "requires": "|Ship Part:29|"
+    "requires": "|Ship Part:29|\nOR (|Ship Part:28| AND |Ship Part Optional:1|) \nOR (|Ship Part:27| AND |Ship Part Optional:2|) \nOR (|Ship Part:26| AND |Ship Part Optional:3|)\nOR (|Ship Part:25| AND |Ship Part Optional:4|)\nOR (|Ship Part:24| AND |Ship Part Optional:5|)"
   },
   {
     "name": "FoH Break white wall near spawn",
@@ -886,5 +886,13 @@
       "The Final Trial"
     ],
     "requires": "|The Final Trial| AND |Blue Pikmin| AND |The Forest Navel| AND |The Forest of Hope| AND |Yellow Pikmin|"
+  },
+  {
+    "victory": true,
+    "name": "Launch !",
+    "category": [
+      "Victory!"
+    ],
+    "requires": "|Ship Part:25|"
   }
 ]

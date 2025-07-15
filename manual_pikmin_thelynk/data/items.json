@@ -1,7 +1,7 @@
 [
   {
     "name": "Ship Part",
-    "count": 30,
+    "count": "25",
     "category": [
       "Ship Parts"
     ],
@@ -61,6 +61,14 @@
       "Areas Accessible"
     ],
     "count": 1,
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ship Part Optional",
+    "category": [
+      "Ship Parts"
+    ],
     "progression": true
   }
 ]
