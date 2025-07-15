@@ -1,3 +1,7 @@
+## TODO 
+- Change Goal and Update Ship Part
+- Add option in yaml
+
 EN
 ====================
 Goal and Progression
