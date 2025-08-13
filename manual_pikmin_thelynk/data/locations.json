@@ -142,7 +142,7 @@
     "category": [
       "The Forest Navel"
     ],
-    "requires": "(|The Forest Navel| and |Blue Pikmin|)"
+    "requires": "|The Forest Navel|"
   },
   {
     "name": "Guard Satellite",
@@ -731,14 +731,14 @@
     "category": [
       "The Forest Navel"
     ],
-    "requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel|"
   },
   {
     "name": "FN Build bridge upper to beach",
     "category": [
       "The Forest Navel"
     ],
-    "requires": "|The Forest Navel| AND |Blue Pikmin|"
+    "requires": "|The Forest Navel|"
   },
   {
     "name": "FN Break black wall near beach",
@@ -894,5 +894,12 @@
       "Victory!"
     ],
     "requires": "|Ship Part:25|"
+  },
+  {
+    "name": "FN Blast black wall near beach",
+    "category": [
+      "The Forest Navel"
+    ],
+    "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
   }
 ]
