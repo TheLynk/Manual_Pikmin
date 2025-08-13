@@ -1,4 +1,3 @@
-====================
 Goal and Progression
 ====================
 Goal: Get to the Final Trial, defeat Emperor Bulblax, and recover the Secret Safe! Requirements to enter the Final Trial:
