@@ -1,15 +1,13 @@
 Goal and Progression
 ====================
-Goal: Get to the Final Trial, defeat Emperor Bulblax, and recover the Secret Safe! Requirements to enter the Final Trial:
-Yellow & Blue Pikmin
-The Final Trial (area access item)
-25 Ship Parts (out of 30 in the pool)
+### Goal: Get 25 Ship Part ($${\color{red}not \space inclued \space Ship \space Part \space Optional}$$)
 
 List of Item :
 
 Pikmin :
-- Blue Pikmin
-- $${\color{yellow}Yellow Pikmin}$$
+- $${\color{yellow}Yellow \space Pikmin}$$
+- $${\color{blue}Blue \space Pikmin}$$
+
 
 Areas Acces :
 - The Impact Site Revisit
@@ -19,7 +17,8 @@ Areas Acces :
 - The Final Trial
 
 Other:
-- Ship Part (30 max)
+- Ship Part (25 max)
+- Ship Part Optional (5 max)
 - Pikpik Carrot (Filler)
 
 List of Type Location :
@@ -38,14 +37,14 @@ Note: This is intended for the Gamecube version of Pikmin. I have not tested the
 Important Note: You will need to enable the "All Areas Open" code for the logic to work appropriately. Here is the AR code itself if you need to activate it manually:
 
 ### 04CE586D 08000000 ###
-0439D980 0000001F
+### 0439D980 0000001F ###
 
 Another Note: It's somewhat possible that you might need to use an infinite Day code (always Day x) if you have to swap around areas a lot. Hopefully this wouldn't be a problem. Here's the AR Code for "Always Day 29" in case it's needed (just use it if you get to Day 29 without reaching your goal): 
 
-04CE587B 08000000
-0039DAB7 0000001D 
+### 04CE587B 08000000 ###
+### 0039DAB7 0000001D ###
 
-Total Checks: 126
+Total Checks: 128
 
 install apworld and playing 
 Place manual_pikmin_thelynk.apworld in custom_worlds and generate template and place yaml in player and here we go
