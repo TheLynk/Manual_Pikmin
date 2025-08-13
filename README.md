@@ -9,7 +9,7 @@ List of Item :
 
 Pikmin :
 - Blue Pikmin
-- Yellow Pikmin
+- $${\color{yellow}Yellow Pikmin}$$
 
 Areas Acces :
 - The Impact Site Revisit
@@ -37,7 +37,7 @@ Note: This is intended for the Gamecube version of Pikmin. I have not tested the
 
 Important Note: You will need to enable the "All Areas Open" code for the logic to work appropriately. Here is the AR code itself if you need to activate it manually:
 
-04CE586D 08000000
+### 04CE586D 08000000 ###
 0439D980 0000001F
 
 Another Note: It's somewhat possible that you might need to use an infinite Day code (always Day x) if you have to swap around areas a lot. Hopefully this wouldn't be a problem. Here's the AR Code for "Always Day 29" in case it's needed (just use it if you get to Day 29 without reaching your goal): 
