@@ -889,7 +889,7 @@
   },
   {
     "victory": true,
-    "name": "Launch !",
+    "name": "Launch ! (25 SP)",
     "category": [
       "Victory!"
     ],
@@ -901,5 +901,45 @@
       "The Forest Navel"
     ],
     "requires": "|The Forest Navel| AND |The Forest of Hope|  AND |Yellow Pikmin|"
+  },
+  {
+    "name": "Launch ! (25 SP & 1 SPO)",
+    "victory": true,
+    "category": [
+      "Victory!"
+    ],
+    "requires": "|Ship Part:25| AND |Ship Part Optional:1|"
+  },
+  {
+    "name": "Launch ! (25 SP & 2 SPO)",
+    "victory": true,
+    "category": [
+      "Victory!"
+    ],
+    "requires": "|Ship Part:25| AND |Ship Part Optional:2|"
+  },
+  {
+    "name": "Launch ! (25 SP & 3 SPO)",
+    "victory": true,
+    "category": [
+      "Victory!"
+    ],
+    "requires": "|Ship Part:25| AND |Ship Part Optional:3|"
+  },
+  {
+    "name": "Launch ! (25 SP & 4 SPO)",
+    "victory": true,
+    "category": [
+      "Victory!"
+    ],
+    "requires": "|Ship Part:25| AND |Ship Part Optional:4|"
+  },
+  {
+    "name": "Launch ! (25 SP & 5 SPO)",
+    "victory": true,
+    "category": [
+      "Victory!"
+    ],
+    "requires": "|Ship Part:25| AND |Ship Part Optional:5|"
   }
 ]

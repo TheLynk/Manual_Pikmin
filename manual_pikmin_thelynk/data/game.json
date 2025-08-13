@@ -3,5 +3,6 @@
   "game": "Pikmin",
   "creator": "TheLynk",
   "filler_item_name": "Pikpik Carrot",
-  "starting_items": []
+  "starting_items": [],
+  "death_link": true
 }
