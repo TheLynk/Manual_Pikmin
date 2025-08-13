@@ -34,12 +34,12 @@ Progression: All areas except The Impact Site have to be obtained from the pool 
 
 Note: This is intended for the Gamecube version of Pikmin. I have not tested the below codes for the Wii version (don't have a way to at the moment), but I'm thinking they're for the Gamecube version only. 
 
-Important Note: You will need to enable the "All Areas Open" code for the logic to work appropriately. Here is the AR code itself if you need to activate it manually:
+### $${\color{red}Important \space Note}$$ : You will need to enable the "All Areas Open" code for the logic to work appropriately. Here is the AR code itself if you need to activate it manually:
 
 ### 04CE586D 08000000 ###
 ### 0439D980 0000001F ###
 
-Another Note: It's somewhat possible that you might need to use an infinite Day code (always Day x) if you have to swap around areas a lot. Hopefully this wouldn't be a problem. Here's the AR Code for "Always Day 29" in case it's needed (just use it if you get to Day 29 without reaching your goal): 
+### $${\color{red}Another \space Note}$$ : It's somewhat possible that you might need to use an infinite Day code (always Day x) if you have to swap around areas a lot. Hopefully this wouldn't be a problem. Here's the AR Code for "Always Day 29" in case it's needed (just use it if you get to Day 29 without reaching your goal): 
 
 ### 04CE587B 08000000 ###
 ### 0039DAB7 0000001D ###
