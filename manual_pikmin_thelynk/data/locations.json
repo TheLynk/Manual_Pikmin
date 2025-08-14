@@ -100,7 +100,7 @@
     "category": [
       "The Forest of Hope"
     ],
-    "requires": "|The Forest of Hope| AND |Blue Pikmin|"
+    "requires": "|The Forest of Hope|"
   },
   {
     "name": "Whimsical Radar",
@@ -247,7 +247,7 @@
     "category": [
       "The Final Trial"
     ],
-    "requires": "|The Final Trial| AND |Yellow Pikmin|  AND |Blue Pikmin| AND |Ship Part:25| AND |The Forest of Hope| AND |The Forest Navel|",
+    "requires": "|The Final Trial| AND |Yellow Pikmin|  AND |Blue Pikmin| AND |The Forest of Hope| AND |The Forest Navel|",
     "victory": false
   },
   {
